@@ -16,7 +16,7 @@ int main(void)
 
 	{
 
-		for (j = 1; j <= 9; i++)
+		for (j = 1; j <= 9; j++)
 
 		{
 
@@ -32,7 +32,6 @@ int main(void)
 				{
 
 					putchar(',');
-
 					putchar(' ');
 
 				}
