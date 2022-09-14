@@ -11,12 +11,12 @@
 
 
 int main(void){
-
+	
 	char ch[8] = "_putchar";
 	int i = 0;
 	char c;
-
-	while (1 <= 8){
+	
+	while (i <= 8){
 		c = ch[i];
 		_putchar(c);
 		i++;
@@ -24,9 +24,12 @@ int main(void){
 
 
 
+
+
 	}
 	_putchar('\n');
 	return(0);
+
 
 
 
@@ -44,5 +47,5 @@ int main(void){
 
 int _putchar(char c)
 {
-	return (write(1, &c, 1));
+	return(write(1, &c, 1));
 }
