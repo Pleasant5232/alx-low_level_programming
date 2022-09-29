@@ -4,7 +4,7 @@
  * @num: number.
  * @pSqrt: possible sqrt of number.
  *
- * return: sqrt of number ot -1 for error.
+ * Return: sqrt of number ot -1 for error.
  */
 int helperFunction(int num, int pSqrt)
 {
