@@ -18,6 +18,7 @@ int helperFunction(int num, int pSqrt)
 			return (-1);
 		else
 			return (helperFunction(num, pSqrt + 1));
+
 	}
 }
 
