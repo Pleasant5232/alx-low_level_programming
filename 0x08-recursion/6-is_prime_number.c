@@ -29,7 +29,7 @@ int helperFunction(int num, int i)
  * is_prime_number - checks if number is prime or not.
  * @n: number to be checked.
  *
- * Return: if number is prime.
+ * Return: 1 if number is prime.
  * 0 if number is not prime.
  */
 int is_prime_number(int n)
