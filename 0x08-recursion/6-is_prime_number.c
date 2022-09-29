@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * helperFunction - return 0 or 1.
+ * helperFunction - returns 0 or 1.
  * @num: number being checked.
  * @1: possible factor of the number.
  *
@@ -34,7 +34,7 @@ int helperFunction(int num, int i)
  */
 int is_prime_number(int n)
 {
-	if (n <- 1)
+	if (n <= 1)
 	{
 		return (0);
 	}
