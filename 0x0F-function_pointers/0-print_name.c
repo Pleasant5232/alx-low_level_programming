@@ -1,6 +1,6 @@
 /**
- * print_name - point of entry.
- * @name: name to be printed.
+ * print_name - prints a name.
+ * @name: pointer to name.
  * @f: function pointer.
  *
  * Return: void.
