@@ -1,1 +1,1 @@
-This is a README file on 0x1C. C - Makefiles in ALX Software Engineering Program by Wasiu Olanrewaju Akindoyin from Cohort 9.
+This is a README file on 0x1C. C - Makefiles in ALX Software Engineering Program by sobukola oladayo pleasant
